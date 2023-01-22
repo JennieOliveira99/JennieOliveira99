@@ -1,12 +1,24 @@
-👩‍🦰 Oii! Eu sou a Jennyfer!
+<h4 align="center"><samp> 👩‍🦰 Oii! Eu sou a Jennyfer! Bem vindos ao meu Github! 
+ 👩‍💻 Cursando segundo semestre de Sistemas para internet;
+ </samp></h4>
 
-👩‍💻 Cursando segundo semestre de Sistemas para internet;
+
+<p align="center">
+  <img width="250" img src="https://images.scrapee.net/result/20230122200048sVbW4EUFuS.gif">
+</p>
 
 
-![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennieOliveira99&show_icons=true&theme=synthwave)
- ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennieOliveira99&show_icons=true&theme=synthwave)
+
+
+
+
+![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennieOliveira99&show_icons=true&theme=flag-india)
+ ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennieOliveira99&show_icons=true&theme=flag-india)
    
   ##
+ 
+ 
+
  
 <div> 
  
