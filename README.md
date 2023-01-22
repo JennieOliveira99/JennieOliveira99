@@ -1,15 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E28462&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00F51D&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E28462&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Jennyfer,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F51D&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Jennyfer,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
-
-
-![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennieOliveira99&show_icons=true&theme=flag-india)
- ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennieOliveira99&show_icons=true&theme=flag-india)
-   
 
 
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+  
+  
+![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennieOliveira99&show_icons=true&theme=flag-india)
+ ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennieOliveira99&show_icons=true&theme=flag-india)
 
    
 <p align="center">
@@ -33,4 +32,4 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E28462&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00F51D&height=120&section=footer"/>
