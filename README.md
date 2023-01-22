@@ -1,20 +1,18 @@
-<h4 align="center"><samp> 👩‍🦰 Oii! Eu sou a Jennyfer! Bem vindos ao meu Github! 
- 👩‍💻 Cursando segundo semestre de Sistemas para internet;
- </samp></h4>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E28462&height=120&section=header"/>
 
-
-<p align="center">
-  <img width="250" img src="https://images.scrapee.net/result/20230122225243mSs3KhhXIo.gif">
-</p>
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E28462&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Jennyfer,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
 
 
 ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennieOliveira99&show_icons=true&theme=flag-india)
  ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennieOliveira99&show_icons=true&theme=flag-india)
    
+  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
+   
+<p align="center">
+  <img width="250" img src="https://images.scrapee.net/result/20230122225243mSs3KhhXIo.gif">
+</p>
+
   ##
  
  
@@ -31,3 +29,5 @@
  
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E28462&height=120&section=footer"/>
