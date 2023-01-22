@@ -9,6 +9,8 @@
    
 
 
+  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
    
 <p align="center">
   <img width="250" img src="https://images.scrapee.net/result/20230122225243mSs3KhhXIo.gif">
