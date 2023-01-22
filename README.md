@@ -7,7 +7,33 @@
 ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennieOliveira99&show_icons=true&theme=flag-india)
  ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennieOliveira99&show_icons=true&theme=flag-india)
    
-  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
+  name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: JennieOliveira99
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+
    
 <p align="center">
   <img width="250" img src="https://images.scrapee.net/result/20230122225243mSs3KhhXIo.gif">
