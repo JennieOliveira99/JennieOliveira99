@@ -8,7 +8,7 @@
   
   
 ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennieOliveira99&show_icons=true&theme=aura)
- ![Jennie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JennieOliveira99&show_icons=true&theme=aura)
+
 
    
 <p align="center">
