@@ -7,11 +7,11 @@
   <img width="300" img src="https://images.scrapee.net/result/202301290317295BH6KdQ6bE.gif">
 </p>
 
+  ![Snake animation](https://github.com/JennieOliveira99/LuigiGF/blob/output/github-contribution-grid-snake.svg)
   
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=JennieOliveira99&show_icons=true&theme=aura">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennieOliveira99&hide_progress=true&theme=aura">
 
-  ![Snake animation](https://github.com/JennieOliveira99/LuigiGF/blob/output/github-contribution-grid-snake.svg)
   
 
 
