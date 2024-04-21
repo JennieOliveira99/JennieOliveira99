@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00F51D&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F51D&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Jennyfer,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8EE1EF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Jennyfer,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -8,16 +8,19 @@
 </p>
 
 
-![Descrição do GIF](https://github.com/JennieOliveira99/JennieOliveira99/assets/117695086/54236d11-ad7a-4fdd-8ed8-0520a4a864e9)
+
+![Descrição do GIF](https://github.com/JennieOliveira99/JennieOliveira99/assets/117695086/080135b2-4934-445a-8e64-709be9e17896)
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+   <img src="https://img.shields.io/badge/Corel_Draw-%23FFA500.svg?style=for-the-badge&logo=coreldraw&logoColor=white" alt="corel Badge">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
-    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-       <img src="https://img.shields.io/badge/Corel_Draw-%23FFA500.svg?style=for-the-badge&logo=coreldraw&logoColor=white" alt="corel Badge">
+   
+      
   
 
 <img src="https://img.shields.io/badge/ibis_Paint-%23FF69B4.svg?style=for-the-badge&logo=paint&logoColor=white" alt="ibis Badge">
@@ -52,7 +55,7 @@ Sou freelancer em desenvolvimento web e ilustradora, atualmente residindo no int
 </p>
 
 
-"></a> 
+</a> 
 
   
 ## Onde me encontrar
@@ -70,7 +73,7 @@ Sou freelancer em desenvolvimento web e ilustradora, atualmente residindo no int
  
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00F51D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=footer"/>
 
 
 
