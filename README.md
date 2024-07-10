@@ -17,8 +17,13 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
+     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
+
+
+
     
    <img src="https://img.shields.io/badge/Corel_Draw-%23FFA500.svg?style=for-the-badge&logo=coreldraw&logoColor=white" alt="corel Badge">
 
@@ -33,17 +38,8 @@
 
 
 ## 🚀 Sobre mim
-Sou freelancer em desenvolvimento web e ilustradora, atualmente residindo no interior de São Paulo. Estou no 4° semestre do curso de Sistemas para Internet na Faculdade de Tecnologia do Estado de São Paulo.
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=footer"/>
-
-
-## **📌Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+Sou Desenvolvedora Fullstack, atualmente residindo no interior de São Paulo. Estou no 5° semestre do curso de Sistemas para Internet na Faculdade de Tecnologia do Estado de São Paulo.
+Amo Programar e não me imagino trabalhando em outra área!
 
 
 <br/>
