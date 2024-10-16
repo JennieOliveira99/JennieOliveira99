@@ -37,7 +37,7 @@
 
 
 ## 🚀 Sobre mim
-Sou Desenvolvedora Fullstack, atualmente residindo no interior de São Paulo. Estou no 5° semestre do curso de Sistemas para Internet na Faculdade de Tecnologia do Estado de São Paulo.
+Sou Desenvolvedora Fullstack, atualmente trabalho com Dart e Flutter. Moro no interior de São Paulo. Estou no 5° semestre do curso de Sistemas para Internet na Faculdade de Tecnologia do Estado de São Paulo.
 Amo Programar e não me imagino trabalhando em outra área!
 
 
