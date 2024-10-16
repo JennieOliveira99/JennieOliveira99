@@ -9,7 +9,6 @@
 
 
 
-![Descrição do GIF](https://github.com/JennieOliveira99/JennieOliveira99/assets/117695086/080135b2-4934-445a-8e64-709be9e17896)
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
