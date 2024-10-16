@@ -11,31 +11,23 @@
 
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white alt="RUBY Badge">
-   
+
    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
- 
-
-
-
-    
-   <img src="https://img.shields.io/badge/Corel_Draw-%23FFA500.svg?style=for-the-badge&logo=coreldraw&logoColor=white" alt="corel Badge">
-
-
+       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white alt="RUBY Badge">
    
-      
-  
 
-<img src="https://img.shields.io/badge/ibis_Paint-%23FF69B4.svg?style=for-the-badge&logo=paint&logoColor=white" alt="ibis Badge">
+
 
 </div>
 
 
 ## 🚀 Sobre mim
-Sou Desenvolvedora Fullstack, atualmente trabalho com Dart e Flutter. Moro no interior de São Paulo. Estou no 5° semestre do curso de Sistemas para Internet na Faculdade de Tecnologia do Estado de São Paulo.
+Sou Desenvolvedora Fullstack, atualmente trabalho com Dart e Flutter. Adoro testar distros Linux, programo ouvindo Linkin Park e uso light mode.🤐<br>
+Moro no interior de São Paulo. 
+<br>Estou no 5° semestre de Sistemas para Internet na Faculdade de Tecnologia do Estado de São Paulo.
 Amo Programar e não me imagino trabalhando em outra área!
 
 
