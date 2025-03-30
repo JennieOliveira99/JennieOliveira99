@@ -28,7 +28,7 @@
 ## 🚀 Sobre mim
 Sou Desenvolvedora Fullstack, atualmente trabalho com Flutter. Adoro testar distros Linux, programo ouvindo sons de tempestade e uso light mode.🤐<br>
 Moro no interior de São Paulo. 
-<br>Estou no 5° semestre de Sistemas para Internet na Faculdade de Tecnologia do Estado de São Paulo.
+<br>Estou no 6° semestre de Sistemas para Internet na Faculdade de Tecnologia do Estado de São Paulo.
 Amo Programar e não me imagino trabalhando em outra área!
 
 
