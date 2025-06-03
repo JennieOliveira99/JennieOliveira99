@@ -22,8 +22,7 @@
 <table>
   <tr>
     <td width="160">
-      <img src="https://github.com/JennieOliveira99.png
-      " width="150" style="border-radius: 50%;" alt="Foto de perfil do GitHub">
+      <img src="https://github.com/JennieOliveira99.png" width="150" style="border-radius: 50%;" alt="Foto de perfil do GitHub">
     </td>
     <td>
       <h3>🚀 Sobre mim</h3>
