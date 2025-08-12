@@ -27,10 +27,10 @@
     <td>
       <h3>🚀 Sobre mim</h3>
       <p>
-        Sou Desenvolvedora Fullstack, atualmente trabalho com Flutter e Java. <br>
-        Adoro testar distros Linux, programo ouvindo sons de tempestade e uso light mode. 🤐<br>
+        Sou Desenvolvedora Júnior, atualmente trabalho com Flutter. <br>
+        Adoro testar distros Linux, tenho hiperfoco em gatos e uso light mode. 🤐<br>
         Jogadora de Soulslike nas horas vagas. <br>
-        Estou no 6° semestre de Sistemas para Internet na FATEC, e o TCC tem sido pior que o Havel: pesado, difícil e que aparece do nada só pra esmagar minha sanidade acadêmica. Já tô andando igual ele — lento, carregando peso demais e torcendo pra não vir outra fase na sequência 🙏.
+        Estou finalizando minha graduação em Sistemas para Internet na FATEC.
       </p>
     </td>
   </tr>
@@ -82,7 +82,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=A604FF&size=24&center=true&vCenter=true&width=1000&lines=Se+chegou+até+aqui%2C+não+esqueça+de+olhar+meus+projetos" alt="final typing">
 </p>
 
-<p align="center">💡 Dica final: sempre mantenha o café quente e os commits frequentes! ☕💻</p>
+<p align="center"></p>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NneWllcW11aWlrOTJueWNuY2lzZTdhb3hmbXdwaXdla2UxYWU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLvqxmK3gOXLy/giphy.gif" alt="Git Gud GIF">
