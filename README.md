@@ -40,9 +40,6 @@
 ---
 <br><br>
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 ## 💼 Experiência
 
@@ -83,7 +80,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 - Implementação de ajustes de layout e melhorias visuais.
 - Entrega de soluções personalizadas conforme demanda do cliente.
 - 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jennyferalvim/details/experience/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=45&center=true&vCenter=true&width=1000&lines=+Informações+:+)](https://git.io/typing-svg)
