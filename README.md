@@ -38,9 +38,7 @@
 
 
 ---
-<br><br>
-
-
+<br>
 ## 💼 Experiência
 
 ### Front-End Developer (Jr) – Flutter  
@@ -79,7 +77,7 @@
 - Desenvolvimento de interfaces web responsivas.
 - Implementação de ajustes de layout e melhorias visuais.
 - Entrega de soluções personalizadas conforme demanda do cliente.
-- 
+  
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jennyferalvim/details/experience/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 
