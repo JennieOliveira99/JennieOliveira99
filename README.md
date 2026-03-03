@@ -40,12 +40,50 @@
 ---
 <br><br>
 
-<div style="display: flex;">
-    <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennieOliveira99&hide_progress=true&theme=aura" alt="ilustração do status do github">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JennieOliveira99&show_icons=true&theme=aura">
-</div>
+### Experiência de trabalho
 
-<br><br>
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+## 💼 Experiência
+
+### Front-End Developer (Jr) – Flutter  
+**Origam Sistemas** • Full-time • Remota  
+**Ago 2024 – Ago 2025** | São Roque, SP  
+
+**Stack:** `Dart` • `Flutter` • `REST API` • `Git` • `GitHub` • `Figma` • `Jira`
+
+- Desenvolvimento e manutenção de aplicações Flutter para desktop, tablet e mobile.
+- Implementação de interfaces responsivas a partir de protótipos no Figma.
+- Criação de widgets reutilizáveis visando escalabilidade e padronização do código.
+- Estruturação de models e services para integração com APIs REST.
+- Organização de código seguindo princípios de separação de responsabilidades.
+- Versionamento com Git, abertura de Pull Requests e revisão colaborativa.
+- Validação de funcionalidades antes do merge, reduzindo retrabalho e inconsistências.
+
+---
+
+### Back-End Developer (Volunteer)  
+**Olympus Code** • Remota  
+**Mai 2024 – Jan 2025**
+
+**Stack:** `Ruby`• `Git` • `GitHub` • `MySQL` • `Trello`
+
+- Desenvolvimento e manutenção de funcionalidades backend.
+- Colaboração em ambiente remoto com versionamento e revisão de código.
+- Participação na organização técnica das entregas.
+
+---
+
+### Desenvolvedora Freelancer  
+**Fev 2024 – Mai 2024**
+
+**Stack:** `JavaScript` • `CSS`• `Git` • `GitHub` • `Figma` • `Trello`
+
+- Desenvolvimento de interfaces web responsivas.
+- Implementação de ajustes de layout e melhorias visuais.
+- Entrega de soluções personalizadas conforme demanda do cliente.
+- 
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=45&center=true&vCenter=true&width=1000&lines=+Informações+:+)](https://git.io/typing-svg)
