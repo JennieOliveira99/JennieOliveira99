@@ -4,16 +4,14 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
+<img src="https://img.shields.io/badge/Totvs-005691?style=for-the-badge&logo=totvs&logoColor=white" alt="Totvs Badge">
+<img src="https://img.shields.io/badge/TL++-1E1E1E?style=for-the-badge&logo=code&logoColor=white" alt="ADVPL Badge">
+<img src="https://img.shields.io/badge/ADVPL-1E1E1E?style=for-the-badge&logo=code&logoColor=white" alt="TL++ Badge">
+<img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge">
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter Badge">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Php-F7DF1E?style=for-the-badge&logo=phpt&logoColor=black" alt="PHP Badge">
 
 </div>
 
@@ -27,7 +25,7 @@
     <td>
       <h3>🚀 Sobre mim</h3>
       <p>
-        Sou Desenvolvedora Júnior, atualmente trabalho com Flutter. <br>
+        Sou Trainee Analista e Consultora TOTVS Protheus, atuando no desenvolvimento de fontes customizados em ADVPL/TL++, suporte técnico a usuários e sustentação de rotinas de ERP. <br>
         Adoro testar distros Linux, tenho hiperfoco em gatos e uso light mode. 🤐<br>
         Jogadora de Soulslike nas horas vagas. <br>
         Estou finalizando minha graduação em Sistemas para Internet na FATEC.
@@ -36,10 +34,25 @@
   </tr>
 </table>
 
-
 ---
 <br>
-## 💼 Experiência
+
+### Experiência 
+### Trainee Analista e Consultora TOTVS Protheus 
+**Apply System** • Full-time • Presencial  
+**Mai 2025 – Presente** | São Roque, SP  
+
+**Stack:** `TOTVS Protheus` • `ADVPL / TL++` • `TDS` • `SQL Server (SSMS)` • `APSDU` • `SmartView`
+
+- Desenvolvimento, depuração e manutenção de **fontes customizados** (`.prw` / `.tlpp`), criando consultas, relatórios e rotinas personalizadas via VS Code / TDS.
+- Atendimento, **suporte técnico e auxílio direto aos usuários finais**, atuando na resolução de dúvidas, investigação de falhas e apoio operacional no ERP.
+- Assistência, apoio e suporte contínuo aos usuários no **TOTVS Transmite**, além de instalação e renovação de **certificados digitais**.
+- Administração de ambientes via **TCloud**, atuando na aplicação de patches, alteração para modo exclusivo, habilitação/desabilitação de modo debug e extração/coleta de logs para diagnóstico de incidentes.
+- Análise de banco de dados e manipulação de metadados/dicionários de dados (APSDU, SSMS) para validação de regras de negócio e compartilhamento de tabelas.
+- Parametrização e suporte em rotinas fiscais e administrativas (configurações de TES, regras tributárias e integração de relatórios em SmartView).
+- Gestão e intermediação de chamados técnicos e atualizações junto à sustentação/suporte da TOTVS.
+
+---
 
 ### Front-End Developer (Jr) – Flutter  
 **Origam Sistemas** • Full-time • Remota  
@@ -49,7 +62,7 @@
 
 - Desenvolvimento e manutenção de aplicações Flutter para desktop, tablet e mobile.
 - Implementação de interfaces responsivas a partir de protótipos no Figma.
-- Criação de widgets reutilizáveis visando escalabilidade e padronização do código.
+- Criação de widgets reutilizáveis visando padronização do código.
 - Estruturação de models e services para integração com APIs REST.
 - Organização de código seguindo princípios de separação de responsabilidades.
 - Versionamento com Git, abertura de Pull Requests e revisão colaborativa.
@@ -61,7 +74,7 @@
 **Olympus Code** • Remota  
 **Mai 2024 – Jan 2025**
 
-**Stack:** `Ruby`• `Git` • `GitHub` • `MySQL` • `Trello`
+**Stack:** `Ruby` • `Git` • `GitHub` • `MySQL` • `Trello`
 
 - Desenvolvimento e manutenção de funcionalidades backend.
 - Colaboração em ambiente remoto com versionamento e revisão de código.
@@ -72,14 +85,12 @@
 ### Desenvolvedora Freelancer  
 **Fev 2024 – Mai 2024**
 
-**Stack:** `JavaScript` • `CSS`• `Git` • `GitHub` • `Figma` • `Trello`
+**Stack:** `JavaScript` • `CSS` • `Git` • `GitHub` • `Figma` • `Trello`
 
 - Desenvolvimento de interfaces web responsivas.
 - Implementação de ajustes de layout e melhorias visuais.
 - Entrega de soluções personalizadas conforme demanda do cliente.
   
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jennyferalvim/details/experience/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=45&center=true&vCenter=true&width=1000&lines=+Informações+:+)](https://git.io/typing-svg)
 
